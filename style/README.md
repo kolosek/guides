@@ -21,6 +21,7 @@ detailed, language/framework-specific style guides:
 * [Haskell](haskell)
 * [HTML](html)
 * [JavaScript](javascript)
+* [Node.js](nodejs)
 * [Objective-C](objective_c)
 * [Python](python)
 * [Rails](rails)

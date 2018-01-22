@@ -5,6 +5,8 @@ Node.js
 * Introduction to [GraphQL].
 * Getting started with Node.js, Express.js and GraphQL [#1].
 * REST API with Node.js, Express.js and Sequelize. [#2].
+* Example of [model definition] with Sequelize
+* Example of [associations] between models with Sequelize
 * Express.js code structure [best practices].
 * Setup babel with Node [#3].
 * Add [index.js] to root of the project to compile your code with babel.
@@ -35,9 +37,11 @@ Node.js
 [#7]: https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/
 [#8]: https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html
 [#e01a85e399ab563b1236]: https://gist.github.com/cletusw/e01a85e399ab563b1236
+[associations]: ./samples/associations
 [airbnb]: https://www.npmjs.com/package/eslint-config-airbnb
 [styleguide]: https://github.com/airbnb/javascript
 [GraphQL]: http://graphql.org/learn
+[model definition]: ./samples/user.js
 [Mocha + Chai]: https://medium.com/the-web-tub/mocha-chai-js-unit-testing-for-es6-with-istanbul-code-coverage-11b2a141a446
 [async/await]: https://medium.freecodecamp.org/how-to-write-beautiful-node-js-apis-using-async-await-and-the-firebase-database-befdf3a5ffee
 [database connection]: ./samples/config.js

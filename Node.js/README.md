@@ -24,7 +24,7 @@ Node.js
 [#1]: https://blog.risingstack.com/graphql-overview-getting-started-with-graphql-and-nodejs/
 [#2]: https://babeljs.io/docs/setup/#installation
 [#3]: https://github.com/juffalow/express-graphql-sequelize-example/tree/master/graphql
-[#4]: (./samples/user.spec.js)
+[#4]: ./samples/user.spec.js
 [#5]: https://github.com/aichbauer/express-graphql-boilerplate
 [#6]: https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/
 [#7]: https://www.twilio.com/blog/2017/08/working-with-environment-variables-in-node-js.html
@@ -34,7 +34,7 @@ Node.js
 [GraphQL]: http://graphql.org/
 [Mocha + Chai]: https://medium.com/the-web-tub/mocha-chai-js-unit-testing-for-es6-with-istanbul-code-coverage-11b2a141a446
 [async/await]: https://medium.freecodecamp.org/how-to-write-beautiful-node-js-apis-using-async-await-and-the-firebase-database-befdf3a5ffee
-[database connection]: (./samples/config.js)
+[database connection]: ./samples/config.js
 [errors and exceptions]: https://stackoverflow.com/questions/7310521/node-js-best-practice-exception-handling
 [raven-node]: https://docs.sentry.io/clients/node/
 [documenting-graphql]: https://blog.codeship.com/documenting-graphql/

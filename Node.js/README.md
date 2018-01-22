@@ -1,11 +1,11 @@
 Node.js
 ====
 
-* Installing [Node.js] 
-* Introduction to [GraphQL] .
+* Installing [Node.js].
+* Introduction to [GraphQL].
 * Getting started with Node.js, Express.js and GraphQL [#1].
 * REST API with Node.js, Express.js and Sequelize. [#2].
-* Express.js code structure [best practices]
+* Express.js code structure [best practices].
 * Setup babel with Node [#3].
 * Add [index.js] to root of the project to compile your code with babel.
 * Use [async/await] for resolving promises.
@@ -22,7 +22,7 @@ Node.js
 * To document GraphQL API, write `description` for each field, query, and mutation [documenting-graphql].
 * To document REST API, use [Swagger].
 * Use airbnb [styleguide].
-* Set up eslint in your project [airbnb].
+* Set up [eslint] in your project.
 * List of eslint rules [#e01a85e399ab563b1236].
 * Create .eslintignore to add directories excluded from eslint check.
 
@@ -50,3 +50,4 @@ Node.js
 [index.js]: ./samples/index.js
 [nyc]: https://www.npmjs.com/package/nyc
 [best practices]: https://www.terlici.com/2014/08/25/best-practices-express-structure.html
+[eslint]: https://medium.com/@StevenLeiva1/configuring-eslint-on-a-nodejs-app-92903cb21038
